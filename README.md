@@ -13,11 +13,13 @@ This two-settlement market is introduced in the paper titled 'Competitive Market
         c) The ISO computes the remaining difference between the generations and loads, and performs an optimal dispatch of the RT conventional generators to resolve the differences.
 ---------------------------------------------------------------------------------------------------------
 ----------- ----------- ----------- ----------- Examples ----------- ----------- ----------- -----------
+
 As examples, the codes for the simulations of the paper titled 'On the Market Equilibria with RenewablePower Producers in Power Networks' is available too. These names of the files for these examples are: 'Find_NE', 'Fig_1a', 'Fig_1b', and 'Fig_1c'.
 
 ---------------------------------------------------------------------------------------------------------
 ----------- ----------- ----------- ----------- Description of The Class ----------- ----------- ------
-The file containing the class is 'Network_Class.py'.
+
+The file containing the class is 'Network_Class.py', and the class name is 'Network'.
 
 The class contains the following functions:
 1. solve_DA_economic_dispatch_by_ISO(DA_commitments_of_RPPs):
