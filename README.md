@@ -14,6 +14,10 @@ This two-settlement market is introduced in the paper titled 'Competitive Market
 
 ---
 
+For more details on this publication, see [link](https://hoseinkh.github.io/publications/publication-993/). For the pdf of the corresponding publication, see [link](https://hoseinkh.github.io/files/Competitive-Market-with-Renewable-Power-Producers-Achieves-Asymptotic-Social-Efficiency.pdf).
+
+---
+
 **Examples**
 
 As examples, the codes for the simulations of the paper titled 'On the Market Equilibria with RenewablePower Producers in Power Networks' is available too. These names of the files for these examples are: 'Find_NE', 'Fig_1a', 'Fig_1b', and 'Fig_1c'.
@@ -52,7 +56,6 @@ The class contains the following functions:
 9. calc_PTDF_matrix():
     This function returns the PTDF matrix for a netwrok.
 
-For more details on this publication, see [link](https://hoseinkh.github.io/publications/publication-993/). For the pdf of the corresponding publication, see [link](https://hoseinkh.github.io/files/Competitive-Market-with-Renewable-Power-Producers-Achieves-Asymptotic-Social-Efficiency.pdf).
         
         
         
