@@ -11,13 +11,16 @@ This two-settlement market is introduced in the paper titled 'Competitive Market
         a) The RT conventional generators submit their quadratic bidding curves to the ISO.
         b) The RPPs’ actual generation are realized.
         c) The ISO computes the remaining difference between the generations and loads, and performs an optimal dispatch of the RT conventional generators to resolve the differences.
----------------------------------------------------------------------------------------------------------
------------ ----------- ----------- ----------- Examples ----------- ----------- ----------- -----------
+
+---
+
+**Examples**
 
 As examples, the codes for the simulations of the paper titled 'On the Market Equilibria with RenewablePower Producers in Power Networks' is available too. These names of the files for these examples are: 'Find_NE', 'Fig_1a', 'Fig_1b', and 'Fig_1c'.
 
----------------------------------------------------------------------------------------------------------
------------ ----------- ----------- ----------- Description of The Class ----------- ----------- ------
+---
+
+**Description of The Class**
 
 The file containing the class is 'Network_Class.py', and the class name is 'Network'.
 
