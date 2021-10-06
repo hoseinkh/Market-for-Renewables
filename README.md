@@ -51,7 +51,8 @@ The class contains the following functions:
 
 9. calc_PTDF_matrix():
     This function returns the PTDF matrix for a netwrok.
-        
+
+For more details on this publication, see [link](https://hoseinkh.github.io/publications/publication-993/). For the pdf of the corresponding publication, see [link](https://hoseinkh.github.io/files/Competitive-Market-with-Renewable-Power-Producers-Achieves-Asymptotic-Social-Efficiency.pdf).
         
         
         
