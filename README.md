@@ -14,7 +14,7 @@ This two-settlement market is introduced in the paper titled 'Competitive Market
 
 ---
 
-For more details on this publication, see [link](https://hoseinkh.github.io/publications/publication-993/). For the pdf of the corresponding publication, see [link](https://hoseinkh.github.io/files/Competitive-Market-with-Renewable-Power-Producers-Achieves-Asymptotic-Social-Efficiency.pdf).
+For more details on this publication and some of the results, see [link](https://hoseinkh.github.io/publications/publication-993/). For the pdf of the corresponding publication, see [link](https://hoseinkh.github.io/files/Competitive-Market-with-Renewable-Power-Producers-Achieves-Asymptotic-Social-Efficiency.pdf).
 
 ---
 
